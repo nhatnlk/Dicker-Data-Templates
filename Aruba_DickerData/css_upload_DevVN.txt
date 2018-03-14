@@ -1,0 +1,18 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Font Google -->
+	<link href="https://fonts.googleapis.com/css?family=Abel|Roboto" rel="stylesheet">
+	<!-- End Font Google -->
+	<title>Hochiminh Post 01 Login</title>
+
+	<link href="https://*cdnUrl*/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://*cdnUrl*/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="*myReferencePath*/css/main.css" rel="stylesheet">
+	<link href="*myReferencePath*/css/carousel.css" rel="stylesheet">
+	<script src="https://*cdnUrl*/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://*cdnUrl*/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="*myReferencePath*/js/input.js"></script>
+	<script src="*myReferencePath*/js/scroll.js"></script>
+	<script src="*myReferencePath*/js/slider.js"></script>
+	<script src="*myReferencePath*/js/modal_fix.js"></script>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Login</title>
+
+	<link rel="stylesheet" href="vendor/css/bootstrap.min.css">
+	<script src="vendor/js/jquery-3.2.1.min.js"></script>
+	<script src="vendor/js/bootstrap.min.js"></script>
+	<script src="main.js"></script>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+	<div class="container header">
+		<img class="img-responsive" src="imgs/lg_dicker_data.png">
+	</div>
+
+	
+		<div class="container welcome">
+			<h1>Welcome to Aruba Network</h1>
+			<p>Join us to PLAY and WIN great prizes !!!</p>
+		</div>
+	
+		<div class="container info">
+			<div class="text">Tell us about yourself</div>
+			<div class="form">
+				<div class="form-group">
+					<div id="alert" hidden class="row">
+						<img class="img-responsive pull-left" width="15px" src="imgs/warning_icon.png">&nbsp;Please fill in all required (*) information
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="first_name">First Name *</label>
+					<input type="text" id="first_name" required>
+				</div>
+				<div class="form-group">
+					<label for="last_name">Last Name *</label>
+					<input type="text" id="last_name" required>
+				</div>
+				<div class="form-group">
+					<label for="email">Email *</label>
+					<input type="email" id="email" required="">
+				</div>
+				<div class="form-group">
+					<label for="company">Company </label>
+					<input type="text" id="company" required>
+				</div>
+				<div class="form-group foot">
+					<p>Your Entry Code will be email to you to enter the Prize Draw</p>
+					<button class="btn btn-success btn-lg pull-right" id="next" disabled>CONTINUE </button>
+				</div>
+			</div>
+		</div>
+
+
+
+
+	<div class="container footer">
+		<div class="pull-right">
+			<img class="img-responsive pull-right" src="imgs/lg_dicker_data.png">
+		</div>
+		<div class="pull-left">
+			<img class="img-responsive pull-left" src="imgs/lg_aruba.png">
+		</div>
+	</div>
+
+	<div id="confirm_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body center">
+        <p>Valid email is required <br> to claim wining prize.</p>
+      </div>
+      <div class="modal-footer center">
+        <button style="margin-right: 27px;" type="button" class="btn btn-default" data-dismiss="modal">BACK</button>
+        <a href="http://firewallWeb/my-login.php?mac=*myMac*&amp;called=*myFWMac*&amp;task=firewallAuth&amp;type=continue" class="btn btn-success" id="confirm">&nbsp;&nbsp;OK&nbsp;&nbsp;</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+</body>
+
+</html>

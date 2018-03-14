@@ -1,0 +1,8 @@
+https://codepen.io/anon/pen/oqjmvV
+
+http://gradcolor.com/css3-gradient.php?c=4
+https://mycolor.space/gradient
+http://color-themes.com/?view=index
+https://material.io/color/#!/?view.left=0&view.right=1&primary.color=37474F
+
+https://color.adobe.com/create/color-wheel/?base=2&rule=Triad&selected=0&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.12941176470588236,0.1568627450980392,0.17647058823529413,0.9882352941176471,0.11395588235272091,0.09882352941176468,0,0.5764705882352192,0.9882352941176471,0.7882352941176471,0.7870434060720873,0.0788235294117647,0.6882352941176471,0.6871368002846124,0.034411764705882385&swatchOrder=0,1,2,3,4
